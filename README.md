@@ -1,4 +1,4 @@
-# PRML-Algorithms
+# Face Recognition using PCA Eigenfaces
 
 My implementation of the eigenfaces algorithm used in face recognition. <br />
 
@@ -11,8 +11,7 @@ This model achieves a test set error of 92.5%.
 ## Required Packages
 
 numpy <br />
-matplotlib <br />
-scikit-learn
+matplotlib
 
 ## Dataset
 
